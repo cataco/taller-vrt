@@ -1,0 +1,20 @@
+{
+  "name": "resemble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@std/esm": "^0.26.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "node-resemble-js": "^0.2.0",
+    "requirejs": "^2.3.6",
+    "resemblejs": "^3.2.5",
+    "rollup": "^2.28.2"
+  }
+}
